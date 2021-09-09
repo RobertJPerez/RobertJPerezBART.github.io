@@ -1,3 +1,7 @@
+<html>
+<head>
+  <title>My Portfolio</title>
+</head>
 <section>
   <h2>Information</h2>
   <p>Name: Robert Perez</p>
@@ -5,8 +9,9 @@
   <p>[Link](https://github.com/RobertJPerez/RobertJPerezBART.github.io)
   </p>
   <p>Biography: Hey I'm Robert Perez, a 21 year old guy from NJ, a CS student at UD and this is my website! Really excited to back after being online and ready to tackle javascript!</p> 
+</section>
 
-<section>
+ <section>
   <h2>Changelog</h2>
   <p>Week 1</p>
   <p>- added changelog that will keep track of all changes made to this website.</p>
