@@ -1,8 +1,8 @@
 Name: Robert Perez
 <section>
   <h2>Changelog</h2>
-  <p>- added changelog
-     - added TODO</p>
+  <p>- added changelog</p>
+  <p>- added TODO</p> 
 </section>
 <section>
   <h2>TODO</h2>
