@@ -29,8 +29,8 @@
   <p>- Add more sections with personal projects</p>
   <p>- Make the page more visually appealing</p>
 </section>
-  </body>
- </html>
+  <body>
+ <html>
 
 
 
