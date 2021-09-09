@@ -23,7 +23,7 @@
 
 <section>
    <h2>TODO</h2>
-   <p>- Add more to Bio</p>
+  <p>- Add more to Bio ie <a href="https://acbart.github.io/">Bart's portfolio</a></p>
   <p>-Add each section to its own tab</p>
   <p>-Change font sizes, colors, and styles</p>
 </section>
