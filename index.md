@@ -24,6 +24,8 @@
 <section>
    <h2>TODO</h2>
    <p>- Add more to Bio</p>
+  <p>-Add each section to its own tab</p>
+  <p>-Change font sizes, colors, and styles</p>
 </section>
   </body>
  </html>
