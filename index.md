@@ -2,6 +2,7 @@
 <head>
   <h1>My Portfolio</h1>
 </head>
+<body>
 <section>
   <h2>Information</h2>
   <p>Name: Robert Perez</p>
@@ -24,7 +25,8 @@
    <h2>TODO</h2>
    <p>- Add more to Bio</p>
 </section>
-
+  </body>
+ </html>
 
 
 
