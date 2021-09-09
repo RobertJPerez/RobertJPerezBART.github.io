@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>My Portfolio</title>
+  <h1>My Portfolio</h1>
 </head>
 <section>
   <h2>Information</h2>
