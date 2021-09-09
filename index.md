@@ -1,8 +1,6 @@
-<html>
 <head>
   <h1>My Portfolio</h1>
 </head>
-<body>
 <section>
   <h2>Information</h2>
   <p>Name: Robert Perez</p>
