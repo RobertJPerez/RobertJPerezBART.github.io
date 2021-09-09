@@ -18,7 +18,7 @@
   <p>- Added changelog that will keep track of all changes made to this website.</p>
   <p>- Added TODO section outlining future additions to the site.</p> 
   <p>- Added a Information Section that contains my name and contact information.</p>
-  <p>- Added a Biography in Information 
+   <p>- Added a Biography in Information</p>
 </section>
 
 <section>
@@ -29,8 +29,6 @@
   <p>- Add more sections with personal projects</p>
   <p>- Make the page more visually appealing</p>
 </section>
-  <body>
- <html>
 
 
 
