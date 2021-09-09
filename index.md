@@ -15,17 +15,19 @@
  <section>
   <h2>Changelog</h2>
   <p>Week 1</p>
-  <p>- added changelog that will keep track of all changes made to this website.</p>
-  <p>- added TODO section outlining future additions to the site.</p> 
-  <p>- added a Information Section that contains my name and contact information.</p>
-  <p>- added a Biography in Information 
+  <p>- Added changelog that will keep track of all changes made to this website.</p>
+  <p>- Added TODO section outlining future additions to the site.</p> 
+  <p>- Added a Information Section that contains my name and contact information.</p>
+  <p>- Added a Biography in Information 
 </section>
 
 <section>
    <h2>TODO</h2>
   <p>- Add more to Bio ie <a href="https://acbart.github.io/">Bart's portfolio</a></p>
-  <p>-Add each section to its own tab</p>
-  <p>-Change font sizes, colors, and styles</p>
+  <p>- Add each section to its own tab</p>
+  <p>- Change font sizes, colors, and styles</p>
+  <p>- Add more sections with personal projects</p>
+  <p>- Make the page more visually appealing</p>
 </section>
   </body>
  </html>
