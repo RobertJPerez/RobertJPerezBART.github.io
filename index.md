@@ -10,6 +10,10 @@
   <p>[Link](https://github.com/RobertJPerez/RobertJPerezBART.github.io)
   </p>
   <p>Biography: Hey I'm Robert Perez, a 21 year old guy from NJ, a CS student at UD and this is my website! Really excited to back after being online and ready to tackle javascript!</p> 
+  <h3>Projects</h3>
+  <p>[Link](https://github.com/RobertJPerez/CISC181)</p>
+  <p>[Link](https://github.com/RobertJPerez/Midterm-Coding-Project)</p>
+  
 </section>
 
  <section>
