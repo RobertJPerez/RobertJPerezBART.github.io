@@ -13,6 +13,11 @@
   <h3>Projects</h3>
   <p>[Link](https://github.com/RobertJPerez/CISC181)</p>
   <p>[Link](https://github.com/RobertJPerez/Midterm-Coding-Project)</p>
+  <h3>Goals</h3>
+  <p>Obtain a better grasp on HTML as a language</p>
+  <p>Learn new web dev skills</p>
+  <p>Gain the ability to make websites and services on the fly for personal use</p> 
+  <p>Pass this course and graduate college :)))</p> 
   
 </section>
 
