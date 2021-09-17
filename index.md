@@ -18,6 +18,7 @@
   <p>Learn new web dev skills</p>
   <p>Gain the ability to make websites and services on the fly for personal use</p> 
   <p>Pass this course and graduate college :)))</p> 
+  <p>Dont get covid from grottos again</p>
   
 </section>
 
@@ -33,15 +34,22 @@
   <p>- Added "quick info" section under information.</p> 
   <p>- Added a "projects" section listing previous CS projects.</p> 
   <p>- Added a "Goals" section outlining the things I want to get out of this class and my career.</p>
+  <p>- Added lines through compelete items on the "TODO" section.</p>
+  <p>- Added more things todo in "TODO".</p>
+  <p>- Got COVID :(.</p>
 </section>
 
 <section>
    <h2>TODO</h2>
-  <p>- Add more to Bio ie <a href="https://acbart.github.io/">Bart's portfolio</a></p>
+  <p><del>- Add more to Bio ie <a href="https://acbart.github.io/">Bart's portfolio</a><del></p>
   <p>- Add each section to its own tab</p>
-  <p>- Change font sizes, colors, and styles</p>
+  <p><del>- Change font sizes, colors, and styles<del></p>
   <p><del>- Add more sections with personal projects<del></p>
   <p>- Make the page more visually appealing</p>
+    <p>- Add pictures.</p>
+    <p>- Add more goals.</p>
+    <p>- Add more projects.</p> 
+    <p>- Change background color.</p> 
 </section>
 
 
