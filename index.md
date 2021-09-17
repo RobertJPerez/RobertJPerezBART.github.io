@@ -4,6 +4,7 @@
 <section>
   <h2>Information</h2>
   <p>My name is Robert Perez and I'm a CS student at the University of Delware. I started my CS journey here in 2018 with Dr. Bart learning racket and since then gained a better handle on other languages such as java and C++.</p>
+  <h1> Quick Info:</h1>
   <p>Name: Robert Perez</p>
   <p>Email: rjperez@udel.edu</p>
   <p>[Link](https://github.com/RobertJPerez/RobertJPerezBART.github.io)
